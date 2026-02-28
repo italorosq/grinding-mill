@@ -6,6 +6,10 @@ Documentacao de hardware do projeto do moinho.
 
 - `images/moinhoserra_bb.png`: diagrama/foto de referencia da montagem.
 
+## Esquematico
+
+![Esquematico de ligacao](images/moinhoserra_bb.png)
+
 ## BOM (Bill of Materials)
 
 | Item | Quantidade | Observacao |
